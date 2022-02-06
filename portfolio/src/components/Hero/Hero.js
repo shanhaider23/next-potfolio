@@ -14,9 +14,11 @@ const Hero = (props) => (
       <SectionTitle>Shan-e-Haider Bukhari</SectionTitle>
       <SectionText>Full Stack Developer</SectionText>
       <SectionText>
-        Possesses the ability to work in a team environment as well as using own
-        initiative. Good understanding of React, Next.js, TypeScript,
-        JavaScript, Nodejs, Expressjs, Knex.js, HTML/SCSS, MySQL, MongoDB, AWS
+        Possesses the ability to work in a team <br />
+        environment as well as using own initiative.
+        <br /> Good understanding of React, Next.js, <br /> TypeScript,
+        JavaScript, Nodejs, Expressjs,
+        <br /> Knex.js, HTML/SCSS, MySQL, MongoDB, AWS <br />
         and Git.
       </SectionText>
       <Button
