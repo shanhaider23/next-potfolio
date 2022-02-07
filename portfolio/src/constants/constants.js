@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Dianox",
     description:
-      "This is a full-stack application for Dianox(biotechnologies and diagnostics company.). I created this app (my employer) by using technologies like Next.js, React and Bootstrap for the frontend, and Node.js, MongoDB and AWS for the backend.",
+      "This is a full-stack application for Dianox a biotechnologies and diagnostics company. I created this app (my employer) by using technologies like Next.js, React and Bootstrap for the frontend, and Node.js, MongoDB and AWS for the backend.",
     image: "/images/dianox-2.jpg",
     tags: ["Next.js", "MongoDB", "AWS", "React", "Node", "Bootstrap"],
     sourse: "https://github.com/shanhaider23",
